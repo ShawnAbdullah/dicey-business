@@ -1,0 +1,23 @@
+#container {
+    position: inherit;
+  }
+  .new-die {
+    width: 125px;
+    height: 125px;
+    position: inherit;
+    display: inline-block;
+    margin: 2em;
+    font-family: Garamond;
+    border: black solid 3px;
+    text-align: center;
+    line-height: 5em;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  #total {
+      font-family: Garamond;
+      font-size: 25px;
+      padding: 1em;
+  }
+  
